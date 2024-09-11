@@ -1,6 +1,6 @@
 # Car-Rental
 
-# araç satış üzerine bir projedir
+# Araç satışı üzerine örnek bir projedir
 
 # Ekran görünüsü
 
